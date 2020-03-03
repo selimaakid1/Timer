@@ -1,0 +1,23 @@
+body{
+  background-image: url(https://images.unsplash.com/photo-1508013492711-d08c47c7cfad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80);
+}
+
+.timeContainer{
+  text-align: center;
+}
+.timeContainer1{
+  display: inline-block;
+}
+.timeNumbers{
+  font-size: 50px;
+}
+.timeTextContainer{
+  display: flex;
+  justify-content: space-around;
+}
+.timeText {
+  color:#2E2E2E;
+}
+.startBtn{
+  margin: 10px;
+}
